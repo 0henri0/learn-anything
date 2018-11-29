@@ -1,0 +1,6 @@
+122133
+Host localhost
+    ForwardAgent yes
+csdc
+sdc
+s
